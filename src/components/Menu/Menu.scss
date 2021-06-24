@@ -1,0 +1,29 @@
+.menu {
+    background-color: #F7F6F6;
+    ul {
+        display: flex;
+        list-style-type: none;
+        align-items: center;
+        padding: 20px;
+        margin: 0px;
+
+        li {
+            margin: 0px 20px;
+
+            a {
+                color: black;
+                text-decoration: none;
+                &:hover {
+                    border-bottom: 1px solid black;
+                    padding-bottom: 10px;
+                }
+                &:active {
+                    border-bottom-color: red;
+                    color: red;
+                }
+            }
+        }
+    }
+
+    
+}
