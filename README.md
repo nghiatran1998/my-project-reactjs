@@ -6,11 +6,11 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Run file db.json in server forlder in src forlder by cmd : <br />
+Run file db.json in server forlder in src forlder adn use the below command : <br />
 json-server --watch db.json
 
 Runs the app in the development mode.<br />
-Open [http://localhost:1998/my-project-reactjs](http://localhost:1998/my-project-reactjs) to view it in the browser.
+npm start
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
