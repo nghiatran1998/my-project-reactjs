@@ -6,6 +6,9 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Run the sever in the development mode <br />
+Open [http://localhost:3000/products](http://localhost:3000/products) to view it in the browser.
+
 Runs the app in the development mode.<br />
 Open [http://localhost:1998/my-project-reactjs](http://localhost:1998/my-project-reactjs) to view it in the browser.
 
